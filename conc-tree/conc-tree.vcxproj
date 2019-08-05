@@ -154,9 +154,6 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="conc-tree.rc" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="ConcTree.h" />
     <ClInclude Include="ConcVector.h" />
     <ClInclude Include="Macros.h" />
